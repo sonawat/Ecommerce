@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Ecommerce/static/css/main.db564452.css",
+    "main.js": "/Ecommerce/static/js/main.439d867a.js",
+    "static/media/product-5.jpg": "/Ecommerce/static/media/product-5.dc387231ab4f081d2485.jpg",
+    "static/media/product-2.png": "/Ecommerce/static/media/product-2.22ea556ef57973020c29.png",
+    "static/media/product-4.png": "/Ecommerce/static/media/product-4.3e873e4301af817dcdd5.png",
+    "static/media/product-3.png": "/Ecommerce/static/media/product-3.13f1fb185f86aeacf138.png",
+    "static/media/product-1.png": "/Ecommerce/static/media/product-1.df2d4509e8d6a67eadeb.png",
+    "static/media/product-6.png": "/Ecommerce/static/media/product-6.3f54d4315d02d3b911ed.png",
+    "index.html": "/Ecommerce/index.html",
+    "main.db564452.css.map": "/Ecommerce/static/css/main.db564452.css.map",
+    "main.439d867a.js.map": "/Ecommerce/static/js/main.439d867a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db564452.css",
+    "static/js/main.439d867a.js"
+  ]
+}
